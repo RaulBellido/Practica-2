@@ -1,0 +1,81 @@
+﻿<!doctype <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Raúl Bellido Andújar">
+    <meta name="description" content="Segona practica SMX2">
+    <meta name="keywords" content="practica2 smx2 legon">   
+    <title>SMX2-M8-UF5-Entrega2</title>
+    <link rel="icon" a href="http://educem.com/wp-content/uploads/2015/02/Logo_educem-01.png">
+</head>
+<body>
+    <header>
+        <img src="./FOTOS/1.jpg">
+        <h1>SMX2</h1>
+        <h2>Pràctiques de HTML5</h2>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Videos</a></li>
+                <li><a href="#">Contacte</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div>
+            <p>Reflexions sobre les meves entregues a M8 <a href="#">Llegir Article</a></p>
+    </div>
+    <section>
+        <article>
+            <h3><img src="./FOTOS/2.png">Això és un article de la pàgina</h3>
+            <p>Lorem ipsum dolor sit amet...</p>
+            <p>Vivamus sed libero nec mauris pulvinar facilisis ut non sem...</p>
+            <p>Phasellus ligula massa, congue ac vulputate non, dignissim at augue...</p>
+        </article>
+        <aside>
+            <h3>Sobre l'autor</h3>
+            <img src="./FOTOS/3.png">
+            <!--Depen del teu ordinador, si vols posar un br o no-->
+            <br>
+            <img src="./FOTOS/9.png">
+            <p>Em presento: El meu nom és Raúl Bellido Andújar. I vaig nèixer el 05 de Juliol del 2001</p>
+            <p>És comlicat presentar-se un mateix</p>
+            <img src="./FOTOS/4.png">
+            <img src="./FOTOS/5.png">
+            <img src="./FOTOS/6.png">
+            <img src="./FOTOS/7.png">
+            <img src="./FOTOS/8.png">
+        </aside>
+    </section>
+    <footer>
+        <div>
+            <h2>El meu darrer tweet</h2>
+            <p>Hee-haw!</p>
+            <p>12/05 23:12</p>
+        </div>
+        <div>
+            <h2>Les meves imatges</h2>
+            <img src="./FOTOS/14.png">
+            <img src="./FOTOS/13.png">
+            <img src="./FOTOS/12.png">
+            <img src="./FOTOS/11.png">
+        </div>
+        <div>
+            <h2>Els meus amics</h2>
+            <ul>
+                <li><a href="#">En Billy</a></li>
+                <li><a href="#">En Jepi</a></li>
+                <li><a href="#">En Jolly</a></li>
+                <li><a href="#">En Ralph</a></li>
+            </ul>
+            <br>  
+            <ul>                    
+                <li><a href="#">La Caterina</a></li>
+                <li><a href="#">La Giorgina</a></li>
+                <li><a href="#">La Mery</a></li>
+                <li><a href="#">La Ruperta</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
